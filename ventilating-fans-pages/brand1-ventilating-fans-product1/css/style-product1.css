@@ -260,12 +260,13 @@ td {
   left: -3%;
 }
 @media (max-width: 425px) {
+  .container2 {
+    z-index: 1;
+  }
   .bars {
     margin-left: 320px;
   }
-  .product-details {
-    z-index: -999;
-  }
+
   .gallery {
     height: 0px;
     margin-top: 10px;
@@ -325,7 +326,7 @@ td {
   .main-td-span {
     font-family: "Cairo", sans-serif;
     font-weight: 700;
-    width: 170px;
+    width: 186px;
   }
   .p3 {
     float: right;

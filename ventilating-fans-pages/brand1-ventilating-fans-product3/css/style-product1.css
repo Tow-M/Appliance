@@ -283,7 +283,7 @@ td {
   .main-td-span {
     font-family: "Cairo", sans-serif;
     font-weight: 700;
-    width: 170px;
+    width: 186px;
   }
   .p3 {
     float: right;
@@ -310,6 +310,7 @@ td {
     float: none;
     margin-top: 50px;
     width: 300px;
+    margin-left: 90px;
   }
   .image3,
   .image4,

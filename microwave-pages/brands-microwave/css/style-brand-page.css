@@ -152,6 +152,9 @@ nav .main-ul li a:hover {
   margin-top: 5px;
   font-weight: 200;
 }
+.co {
+  visibility: hidden;
+}
 @media (max-width: 425px) {
   .types-ul > li {
     margin-top: 20px;

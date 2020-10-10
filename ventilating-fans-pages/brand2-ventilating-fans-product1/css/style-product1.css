@@ -256,6 +256,9 @@ td {
 #toggle2:checked ~ .sub-gallery {
   left: -3%;
 }
+.co {
+  visibility: hidden;
+}
 @media (max-width: 425px) {
   .bars {
     margin-left: 320px;
@@ -322,7 +325,7 @@ td {
   .main-td-span {
     font-family: "Cairo", sans-serif;
     font-weight: 700;
-    width: 170px;
+    width: 186px;
   }
   .p3 {
     float: right;

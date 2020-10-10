@@ -273,7 +273,6 @@ td {
   .sub-gallery {
     z-index: -999;
     margin-top: 270px;
-    margin-left: 35px;
   }
   .p1 {
     font-size: 18px;
@@ -325,7 +324,7 @@ td {
   .main-td-span {
     font-family: "Cairo", sans-serif;
     font-weight: 700;
-    width: 170px;
+    width: 186px;
   }
   .p3 {
     float: right;
@@ -353,6 +352,7 @@ td {
     margin-top: 50px;
     width: 250px;
     margin-right: 0px;
+    margin-left: 90px;
   }
   .image3 {
     float: none;

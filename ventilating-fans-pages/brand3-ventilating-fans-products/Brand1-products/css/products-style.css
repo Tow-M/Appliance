@@ -165,7 +165,7 @@ nav .main-ul li a:hover {
 
 @media (max-width: 425px) {
   .container2 {
-    z-index: -9999;
+    z-index: 1;
   }
   .types-ul .image4,
   .image5,

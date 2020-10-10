@@ -271,7 +271,6 @@ td {
   .sub-gallery {
     z-index: -999;
     margin-top: 270px;
-    margin-left: 0px;
   }
   .p1 {
     font-size: 18px;
@@ -350,13 +349,13 @@ td {
     float: none;
     margin-top: 50px;
     width: 300px;
-    margin-left: 90px;
+    margin-left: 120px;
   }
   .image3 {
     float: none;
     margin-top: 50px;
-    width: 250px;
-    margin-left: 90px;
+    width: 240px;
+    margin-left: 120px;
   }
   .image4 {
     float: none;

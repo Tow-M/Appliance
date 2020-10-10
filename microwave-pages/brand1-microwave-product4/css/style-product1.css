@@ -272,7 +272,6 @@ td {
     float: none;
     z-index: -999;
     margin-top: 270px;
-    margin-left: 120px;
   }
   .p1 {
     font-size: 18px;
@@ -352,6 +351,7 @@ td {
     margin-top: 50px;
     width: 250px;
     margin-right: 0px;
+    margin-left: 120px;
   }
   .image3 {
     float: none;
