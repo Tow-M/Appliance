@@ -1,11 +1,23 @@
 * {
   margin: 0;
   box-sizing: border-box;
+  overflow-y: hidden;
 }
 /*START OF NAVBAR SECTION
       
       */
-
+.overlay {
+  position: absolute;
+  z-index: 99999;
+  background-color: white;
+  width: 1366px;
+  height: 650px;
+}
+.main-image {
+  position: absolute;
+  z-index: 99999999999;
+  left: 350px;
+}
 nav {
   width: auto;
   height: 60px;
